@@ -1,3 +1,3 @@
-# Praktikum-OOP-OS
-Code untuk praktikum OOP Java dan Sistem Operasi
+<h1 align="center">Tempat Sertifikat dan Foto Lainnya</h1>
+
 
